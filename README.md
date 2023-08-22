@@ -1,2 +1,2 @@
-# XRSharp
-Issue tracker for XR# — see https://xrsharp.io
+# XR#
+See https://xrsharp.io
